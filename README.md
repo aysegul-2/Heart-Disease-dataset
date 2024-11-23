@@ -20,7 +20,7 @@ UCI Machine Learning Repository'den elde edilen kalp hastalığı veri seti kull
 -  **oldpeak = ST depression induced by exercise relative to rest**:Egzersizle oluşan ST depresyonu dinlenmeye göre.
 -  **the slope of the peak exercise ST segment**:zirve egzersiz ST segmentinin eğimi.
 -  **number of major vessels (0-3) colored by flourosopy**:floroskopi ile renklendirilen ana damarların sayısı (0-3).
--  **thal: 0 = normal; 1 = fixed defect; 2 = reversable defect**:thal: 0 = normal; 1 = sabit hata; 2 = geri dönüşümlü hata.
+-  **thal: 0 = normal; 1 = fixed defect; 2 = reversable defect**: thal: 0 = normal; 1 = sabit hata; 2 = geri dönüşümlü hata.
 
 Veri seti şu kaynaktan alınmıştır. :**Kaggle**.
 
