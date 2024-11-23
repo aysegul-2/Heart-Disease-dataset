@@ -22,7 +22,7 @@ UCI Machine Learning Repository'den elde edilen kalp hastalığı veri seti kull
 -  **number of major vessels (0-3) colored by flourosopy**:floroskopi ile renklendirilen ana damarların sayısı (0-3).
 -  **thal: 0 = normal; 1 = fixed defect; 2 = reversable defect**:thal: 0 = normal; 1 = sabit hata; 2 = geri dönüşümlü hata.
 
-Veri seti şu kaynaktan alınmıştır.:**Kaggle**.
+Veri seti şu kaynaktan alınmıştır. :**Kaggle**.
 
 
 
@@ -52,8 +52,8 @@ Veri seti şu kaynaktan alınmıştır.:**Kaggle**.
 
 ## Görselleştirmeler
 Bu proje aşağıdaki görselleştirmeleri oluşturur:
-1.Karmaşıklık Matrisi: Modelin performansını değerlendirir.
-2.Karar Ağaçları : Bu karar ağacı, kalp hastalığı tahmini için kullanılmıştır. Her düğüm, bir hastanın özelliği (yaş, cinsiyet, vb.) ile ilgili bir karar verir. Yapraklar ise hastanın kalp hastalığı olup olmadığını gösterir.
+1. Karmaşıklık Matrisi: Modelin performansını değerlendirir.
+2. Karar Ağaçları : Bu karar ağacı, kalp hastalığı tahmini için kullanılmıştır. Her düğüm, bir hastanın özelliği (yaş, cinsiyet, vb.) ile ilgili bir karar verir. Yapraklar ise hastanın kalp hastalığı olup olmadığını gösterir.
 
 
 
