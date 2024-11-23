@@ -9,18 +9,18 @@ Bu repo, kalp hastalığı riskini belirlemek için makine öğrenimi yöntemler
 UCI Machine Learning Repository'den elde edilen kalp hastalığı veri seti kullanılmıştır. Bu veri seti, hastanın yaş, cinsiyet, kolesterol seviyesi gibi çeşitli özelliklerini içermektedir.
 
 -  **age**
--  **sex**:seks.
--  **chest pain type (4 values)**:göğüs agrısı tipi.
--  **resting blood pressure**:istirahat kan basıncı.
--  **serum cholestoral in mg/dl**:serum kolestrol mg/dl cinsinden.
--  **fasting blood sugar > 120 mg/dl**:açlık kan şekeri > 120 mg/dl.
--  **resting electrocardiographic results (values 0,1,2)**:istirahat elektrokardiyografi sonuçları (değerler 0,1,2).
--  **maximum heart rate achieved**:ulaşılan maksimum kalp hızı.
--  **exercise induced angina**:egzersiz kaynaklı anjin.
--  **oldpeak = ST depression induced by exercise relative to rest**:Egzersizle oluşan ST depresyonu dinlenmeye göre.
--  **the slope of the peak exercise ST segment**:zirve egzersiz ST segmentinin eğimi.
--  **number of major vessels (0-3) colored by flourosopy**:floroskopi ile renklendirilen ana damarların sayısı (0-3).
--  **thal: 0 = normal; 1 = fixed defect; 2 = reversable defect**: thal: 0 = normal; 1 = sabit hata; 2 = geri dönüşümlü hata.
+-  **sex**
+-  **chest pain type (4 values)
+-  **resting blood pressure**
+-  **serum cholestoral in mg/dl**
+-  **fasting blood sugar > 120 mg/dl**
+-  **resting electrocardiographic results (values 0,1,2)**
+-  **maximum heart rate achieved**
+-  **exercise induced angina**
+-  **oldpeak = ST depression induced by exercise relative to rest**
+-  **the slope of the peak exercise ST segment**
+-  **number of major vessels (0-3) colored by flourosopy**
+-  **thal: 0 = normal; 1 = fixed defect; 2 = reversable defect**
 
 Veri seti şu kaynaktan alınmıştır. :**Kaggle**.
 
