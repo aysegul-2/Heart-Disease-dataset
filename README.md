@@ -8,7 +8,7 @@ Bu repo, kalp hastalığı riskini belirlemek için makine öğrenimi yöntemler
 
 UCI Machine Learning Repository'den elde edilen kalp hastalığı veri seti kullanılmıştır. Bu veri seti, hastanın yaş, cinsiyet, kolesterol seviyesi gibi çeşitli özelliklerini içermektedir.
 
--  **age**:yaş.
+-  **age**
 -  **sex**:seks.
 -  **chest pain type (4 values)**:göğüs agrısı tipi.
 -  **resting blood pressure**:istirahat kan basıncı.
