@@ -10,7 +10,7 @@ UCI Machine Learning Repository'den elde edilen kalp hastalığı veri seti kull
 
 -  **age**
 -  **sex**
--  **chest pain type (4 values)
+-  **chest pain type (4 values)**
 -  **resting blood pressure**
 -  **serum cholestoral in mg/dl**
 -  **fasting blood sugar > 120 mg/dl**
